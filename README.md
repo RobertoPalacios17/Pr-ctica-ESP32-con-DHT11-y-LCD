@@ -56,5 +56,5 @@ Por ultimo hacemos la conexion de los sensores **DHT11** y **ESP32** con el sens
 
 ### RESULTADOS
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-![]https://(github.com/RobertoPalacios17/Pr-ctica-ESP32-con-DHT11-y-LCD/blob/main/SENSOR%204.png)
+![](https://(github.com/RobertoPalacios17/Pr-ctica-ESP32-con-DHT11-y-LCD/blob/main/SENSOR%204.png)
 
